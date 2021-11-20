@@ -18,5 +18,5 @@ footer: 欢迎大家一起加入学习
 # 如何关注我
 
 ## 抖音
-<img src="./images/douyin.jpg" width="300px" />
+<img src="./guide/images/douyin.jpg" width="300px" />
 
