@@ -1,6 +1,7 @@
 module.exports ={
   title: '前端扬灵',
   description : '扬灵的个人博客',
+  base: '/yl-docs/',
   head:[
     [['link', { rel: 'icon', href: '/logo.png' }]]
   ],

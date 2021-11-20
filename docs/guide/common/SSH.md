@@ -55,7 +55,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEGa2eN5Wvw0u00E16b6Jwo2d1+1AeuIuC+Y/+2myF
 ```
 4. 登录 Github 账号，点击头像选择 Settings
 ![github](../images/github-settings.jpg)
-5. 点击去后选择 SSH and GPG keys, 点击右侧的 New SSH key ，添加密钥
+5. 进去后选择 SSH and GPG keys, 点击右侧的 New SSH key ，添加密钥
 ![github](../images/github-sshKeys.jpg)
 6. 输入密钥名称，将 id_rsa.pub内容拷贝到 Key 中
 ![github](../images/github-keys.png)
@@ -65,4 +65,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEGa2eN5Wvw0u00E16b6Jwo2d1+1AeuIuC+Y/+2myF
 ![github](../images/github-New-ssh.jpg)
 
 ## windows
-> windows 下添加 Github 密钥命令和 Mac 相同，可以通过 Git Bash 执行生成 SSH 密钥命令。 [Git Bash 下载地址：](https://git-scm.com/downloads)
+> windows 下添加 Github 密钥命令和 Mac 相同，可以通过 Git Bash 生成 SSH 密钥文件。 [Git Bash 下载地址：](https://git-scm.com/downloads)
