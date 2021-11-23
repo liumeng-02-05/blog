@@ -54,15 +54,15 @@ liumeng@liumengdeMacBook-Pro .ssh % cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEGa2eN5Wvw0u00E16b6Jwo2d1+1AeuIuC+Y/+2myFidqeCKCwSpxcmG6nPV1HLCwE4e98sH37rgejm1Cz7OW/2HB+pKSEtSmObWsHSCAtoYJxn6ZhQgp70FudupgwjnryKZJKbDp3y8cHRd09RQ7kZFhxvPbWtHou5t5YM5y3V1EwAJ/BEQHhuFHR/d4Ukeo334M3dJR5qmEPqrypxnRAkJ11WrO7ArnEmFPLGhO3YXWPpF5q4YeCcvJwWZPOJj1GJIlY2KUMWCMcejVqCEVWgLIpuxXZ4Ydb8wnbCSD7BaE98Y6t3jVT5OHlQ0Q7H5FasO/pTGiCPg2yfoJHbvIn57oklY+3rB...
 ```
 4. 登录 Github 账号，点击头像选择 Settings
-![github](../images/github-settings.jpg)
+![github](../images/ssh/github-settings.jpg)
 5. 进去后选择 SSH and GPG keys, 点击右侧的 New SSH key ，添加密钥
-![github](../images/github-sshKeys.jpg)
+![github](../images/ssh/github-sshKeys.jpg)
 6. 输入密钥名称，将 id_rsa.pub内容拷贝到 Key 中
-![github](../images/github-keys.png)
+![github](../images/ssh/github-keys.png)
 7. 点击 Add SSH key 添加密钥，输入 Github 账户密码
-![github](../images/github-login.jpg)
+![github](../images/ssh/github-login.jpg)
 8. 登录之后可以在界面看到新添加的密钥信息
-![github](../images/github-New-ssh.jpg)
+![github](../images/ssh/github-New-ssh.jpg)
 
 ## windows
 > windows 下添加 Github 密钥命令和 Mac 相同，可以通过 Git Bash 生成 SSH 密钥文件。 [Git Bash 下载地址：](https://git-scm.com/downloads)

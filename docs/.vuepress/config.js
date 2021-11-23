@@ -25,7 +25,9 @@ module.exports ={
           title: '常见问题',
           collapsable: false,
           children: [
-            'common/SSH'
+            'common/SSH',
+            'common/gitInit',
+            'common/nginx'
           ]
         },
         {
