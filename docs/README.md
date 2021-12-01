@@ -3,7 +3,7 @@ home: true
 heroText: 「前端扬灵」官网
 tagline:  前端程序员的乐园
 actionText: 了解扬灵 →
-actionLink: /resume/
+actionLink: /guide/
 features:
 - title: 我是谁？
   details: 我是一个工作了两年的前端程序员，现在正在前端的学习道路上持续努力着

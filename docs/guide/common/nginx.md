@@ -1,6 +1,6 @@
 # 搭建 nginx 服务器
 
-# 安装
+## 安装 nginx 
 > windows 可以通过官网下载 nginx 安装包，[下载地址](http://nginx.org/en/download.html)
 1. 安装 Homebrew
 > 大概二十分钟左右就可以安装完成了,其间要根据提示输入密码,安装成功后就可以安装nginx了. 安装完成后可以通过 which brew 检查是否安装完成

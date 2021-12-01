@@ -27,7 +27,22 @@ module.exports ={
           children: [
             'common/SSH',
             'common/gitInit',
-            'common/nginx'
+            'common/nginx',
+            'common/vscode',
+            'common/npmPublish',
+            'common/npmLink',
+            'common/eslint',
+            'common/vuepress',
+            {
+              title: 'webpack',
+              collapsable: true,
+              children: [
+                'common/webpack/webpack-js',
+                'common/webpack/webpack-vue',
+                'common/webpack/webpack-react',
+                'common/webpack/webpack-build'
+              ]
+            }
           ]
         },
         {
